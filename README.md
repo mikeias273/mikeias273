@@ -10,7 +10,7 @@
 
 - 💻 Atualmente desenvolvendo e estudando tecnologias web como **Ruby**, **JavaScript**, **HTML** e **CSS**.
 - 🎯 Focado em aprender boas práticas de programação e construir projetos incríveis.
-- 📫 Como me encontrar: [Insira seu LinkedIn ou E-mail aqui]
+- 📫 Como me encontrar: [miqueiassales89@gmail.com]
 
 ---
 
